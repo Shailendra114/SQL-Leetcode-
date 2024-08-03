@@ -1,1 +1,1 @@
-# SQL-Leetcode- Collections
+# SQL-Leetcode-questions Collection
