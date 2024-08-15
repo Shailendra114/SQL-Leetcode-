@@ -8,8 +8,6 @@ The solutions are divided into three level of categories namely Easy, Medium, an
 
 https://leetcode.com/problemset/database/
 
-
-
 -- Question 01
 -- Table: ActorDirector
 
