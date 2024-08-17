@@ -11,6 +11,7 @@ https://leetcode.com/problemset/database/
 -- Question 01
 -- Table: ActorDirector
 
+
 -- +-------------+---------+
 -- | Column Name | Type    |
 -- +-------------+---------+
@@ -18,6 +19,8 @@ https://leetcode.com/problemset/database/
 -- | director_id | int     |
 -- | timestamp   | int     |
 -- +-------------+---------+
+
+
 -- timestamp is the primary key column for this table.
  
 
