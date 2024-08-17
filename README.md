@@ -29,6 +29,8 @@ https://leetcode.com/problemset/database/
 -- Example:
 
 -- ActorDirector table:
+
+
 -- +-------------+-------------+-------------+
 -- | actor_id    | director_id | timestamp   |
 -- +-------------+-------------+-------------+
@@ -41,12 +43,17 @@ https://leetcode.com/problemset/database/
 -- | 2           | 1           | 6           |
 -- +-------------+-------------+-------------+
 
+
 -- Result table:
+
+
 -- +-------------+-------------+
 -- | actor_id    | director_id |
 -- +-------------+-------------+
 -- | 1           | 1           |
 -- +-------------+-------------+
+
+
 -- The only pair is (1, 1) where they cooperated exactly 3 times.
 
 -- Solution 
