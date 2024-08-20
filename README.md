@@ -31,8 +31,8 @@ https://leetcode.com/problemset/database/
 -- ActorDirector table:
 
 
--- +-------------+-------------+-------------+
--- | actor_id    | director_id | timestamp   |
+-- +-------------+-------------+-------------+           
+-- | actor_id    | director_id | timestamp   |             
 -- +-------------+-------------+-------------+
 -- | 1           | 1           | 0           |
 -- | 1           | 1           | 1           |
