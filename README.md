@@ -12,9 +12,9 @@ https://leetcode.com/problemset/database/
 -- Table: ActorDirector
 
 
--- +-------------+---------+
+-- +-------------+---------+               
 -- | Column Name | Type    |
--- +-------------+---------+
+-- +-------------+---------+            
 -- | actor_id    | int     |
 -- | director_id | int     |
 -- | timestamp   | int     |
