@@ -40,7 +40,7 @@ https://leetcode.com/problemset/database/
    | 1           | 2           | 4           |
    | 2           | 1           | 5           |
    | 2           | 1           | 6           |
-   |-------------|-------------|-------------|
+  
 
 
 -- Result table:
