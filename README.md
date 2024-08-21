@@ -46,11 +46,10 @@ https://leetcode.com/problemset/database/
 -- Result table:
 
 
--- +-------------+-------------+
--- | actor_id    | director_id |
--- +-------------+-------------+
--- | 1           | 1           |
--- +-------------+-------------+
+   | actor_id    | director_id |
+   |-------------|-------------|
+   | 1           | 1           |
+   
 
 
 -- The only pair is (1, 1) where they cooperated exactly 3 times.
