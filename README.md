@@ -7,18 +7,17 @@ This repo contains all my SQL solutions from Leetcode website in order to practi
 The solutions are divided into three level of categories namely Easy, Medium, and Hard. Every category first contains the question and then followed by its respective solution. Link to the website is:-
 
 https://leetcode.com/problemset/database/
+ 
+**Question 01**
 
-''' -- Question 01
--- Table: ActorDirector
+**Table: ActorDirector**
 
+| Column Name | Type |
+|-------------|------|
+| actor_id    | int  |
+| director_id | int  |
+| timestamp   | int  |
 
--- +-------------+---------+               
--- | Column Name | Type    |
--- +-------------+---------+            
--- | actor_id    | int     |
--- | director_id | int     |
--- | timestamp   | int     |
--- +-------------+---------+  '''
 
 
 -- timestamp is the primary key column for this table.
