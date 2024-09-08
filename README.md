@@ -43,7 +43,7 @@ https://leetcode.com/problemset/database/
   
 
 
---   Result table:
+-  Result table:
 
 
    | actor_id    | director_id |
