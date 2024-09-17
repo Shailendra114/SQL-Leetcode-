@@ -10,7 +10,7 @@ https://leetcode.com/problemset/database/
  
 **Question  01**         
 
-**Table: ActorDirector**   
+**Table:ActorDirector**   
 
 | Column Name | Type |
 |-------------|------|
